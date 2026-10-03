@@ -1,0 +1,13 @@
+public class Vehicle{
+    public static void main(String[] args){
+        int vehicle = 1234;
+        float wastecollected = 250.0;
+        int collectionpoints = 5;
+        char vehiclestatus = 'A';
+        System.out.println("Vehicle number = " + vehicle);
+        System.out.println("waste collected = " + wastecollected);
+        System.out.println("collection points = " + collectionpoints);
+        System.out.println("Vehicle status = " + vehiclestatus);
+
+    }
+}
